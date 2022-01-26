@@ -1,5 +1,6 @@
 # Github and git conflict
-# CSC4110-assignment1
+=======
+# Github and git
 
 **Name:** Manmeet Bhogal
 **Access ID:** gh0629
